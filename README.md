@@ -1,6 +1,7 @@
 # GraphQL - Demo
 Date: 2022/07 by Adem
-the sample is learn from [Web Dev Simplified](https://www.youtube.com/watch?v=ZQL7tL2S0oQ&t=1921s) 
+
+The sample is learn from [Web Dev Simplified](https://www.youtube.com/watch?v=ZQL7tL2S0oQ&t=1921s) 
 ## Contents
 - [GraphQL - Demo](#graphql---demo)
   - [Contents](#contents)
@@ -68,7 +69,7 @@ Then run server, and you will see the console log `Server Running`
 [nodemon] starting `node server.js`
 Server Running
 ```
-But if you open the browser `localhost:5000`,you got some Error `Cannot GET /` because you do not already write middleware.
+But when you open the browser `localhost:5000`,you will get some Error `Cannot GET /` because you do not already write middleware.
 Let's create a middleware in next step
 ## Create a middleware
 ```javascript
