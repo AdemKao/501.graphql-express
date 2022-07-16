@@ -1,6 +1,7 @@
 # GraphQL - Demo
 Date: 2022/07 by Adem
-the sample is learn from [Web Dev Simplified](https://www.youtube.com/watch?v=ZQL7tL2S0oQ&t=1921s) 
+
+The sample is learn from [Web Dev Simplified](https://www.youtube.com/watch?v=ZQL7tL2S0oQ&t=1921s) 
 ## Contents
 - [GraphQL - Demo](#graphql---demo)
   - [Contents](#contents)
